@@ -1,0 +1,29 @@
+# Maze Solver Using Recursive Backtracking
+
+## Description
+This project solves a maze using the Recursive Backtracking algorithm in C++.
+
+## Technologies
+- C++
+- Recursion
+- Backtracking
+- 2D Arrays
+
+## Files
+- main.cpp
+- maze.h
+- maze.cpp
+
+## How to Run
+1. Open the project in VS Code.
+2. Open the terminal.
+3. Compile:
+
+   g++ main.cpp maze.cpp -o MazeSolver
+
+4. Execute:
+
+   .\MazeSolver.exe
+
+## Author
+ishwari ghute

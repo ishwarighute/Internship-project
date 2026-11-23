@@ -1,0 +1,27 @@
+# SEO Sitemap and Robots.txt Configuration
+
+## Description
+This project focuses on SEO configuration for website deployment using sitemap.xml and robots.txt.
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
+- XML
+- Netlify
+- GitHub
+
+## Files
+- index.html
+- style.css
+- script.js
+- sitemap.xml
+- robots.txt
+
+## How to Run
+1. Open the project folder.
+2. Open index.html in a browser.
+3. Deploy the website using Netlify.
+
+## Author
+Aastha Ghute
