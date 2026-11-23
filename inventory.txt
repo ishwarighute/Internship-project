@@ -1,0 +1,5 @@
+101 Pen 50 10
+102 Notebook 30 45
+103 Pencil 100 5
+104 Eraser 40 5
+105 Scale 25 15
